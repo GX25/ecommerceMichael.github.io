@@ -1,0 +1,18 @@
+body{background-color : lightblue;}
+
+table{border-collapse : 
+collapse;
+	border: 2;
+	width: 50%;
+}
+td, th {
+	border : 3px solid gray;
+	text-align ; center;
+	padding : 20px ;
+}
+tr:nth-child(even) {
+	background-color : pink;
+}
+tr:nth-child(odd) {
+	background-color : yellow;
+}

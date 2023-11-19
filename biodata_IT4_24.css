@@ -1,0 +1,144 @@
+ /*Nama pemrogram: Michael David Chan/Informatika4/24*/
+body{
+	background: linear-gradient(red,blue);
+	font-family: arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+table{
+	border-collapse : collapse;
+	width: auto;
+	margin: 30px;
+	font-size: 20;
+
+}
+
+td, th {
+	border : 5px solid limegreen;
+	text-align : center;
+	padding : 0px ;
+}
+
+tr:nth-child(1) {
+	background-color : #fb6a4a;
+}
+
+tr:nth-child(2) {
+	background-color : #fc9272;
+}
+
+tr:nth-child(3) {
+	background-color : #fcbba1;
+}
+
+tr:nth-child(4) {
+	background-color : #fee0d2;
+}
+
+tr:nth-child(5) {
+	background-color : white;
+}
+
+tr:nth-child(6) {
+	background-color : #deebf7;
+}
+
+tr:nth-child(7) {
+	background-color : #c6dbef;
+}
+
+tr:nth-child(8) {
+	background-color : #9ecae1;
+}
+
+tr:nth-child(9) {
+	background-color : #6baed6;
+}
+
+header {
+    background-color: #a50f15;
+    color: #fff;
+    padding: 1px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #08519b;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 24;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 60%;
+  width: 60%;
+}
+
+.image{
+	background-color: skyblue;
+	padding: 20px;
+}
+
+.width{
+	width: 15%;
+}
+.width2{
+	width: 40%;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+    margin-left: 50px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 1s;
+    transition: padding 1s;
+    transition: letter-spacing 0.5s;
+    transition: font-size 0.5s;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+ul li a:hover {
+    color: #3366CC;
+    letter-spacing: 1px;
+    font-size: 36px;
+    padding: 10px;
+
+}
+
+li {
+    margin-top: 10px;
+}
+
+a {
+	font-size: 28px;
+}
+
+button{
+	background-color: orangered;
+	border-radius: 6px;
+}
+
+ /*Nama pemrogram: Michael David Chan/Informatika4/24*/
